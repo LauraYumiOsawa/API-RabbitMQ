@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Infra/RedeUni.Infra.csproj": {}
+  },
+  "projects": {
+    "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Domain/RedeUni.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Domain/RedeUni.Domain.csproj",
+        "projectName": "RedeUni.Domain",
+        "projectPath": "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Domain/RedeUni.Domain.csproj",
+        "packagesPath": "/home/losawa/.nuget/packages/",
+        "outputPath": "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/losawa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Infra/RedeUni.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Infra/RedeUni.Infra.csproj",
+        "projectName": "RedeUni.Infra",
+        "projectPath": "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Infra/RedeUni.Infra.csproj",
+        "packagesPath": "/home/losawa/.nuget/packages/",
+        "outputPath": "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/losawa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Domain/RedeUni.Domain.csproj": {
+                "projectPath": "/home/losawa/Músicas/Class/FullStack/3/DDDRedeUni/RedeUni.Domain/RedeUni.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

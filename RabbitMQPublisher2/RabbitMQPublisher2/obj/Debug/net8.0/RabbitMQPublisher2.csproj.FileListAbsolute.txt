@@ -1,0 +1,17 @@
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/bin/Debug/net8.0/RabbitMQPublisher2.deps.json
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/bin/Debug/net8.0/RabbitMQPublisher2.dll
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/bin/Debug/net8.0/RabbitMQPublisher2.pdb
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.csproj.AssemblyReference.cache
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.GeneratedMSBuildEditorConfig.editorconfig
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.AssemblyInfoInputs.cache
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.AssemblyInfo.cs
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.csproj.CoreCompileInputs.cache
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.dll
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/refint/RabbitMQPublisher2.dll
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.pdb
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/ref/RabbitMQPublisher2.dll
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/bin/Debug/net8.0/RabbitMQPublisher2
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/bin/Debug/net8.0/RabbitMQPublisher2.runtimeconfig.json
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.csproj.CopyComplete
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher2/RabbitMQPublisher2/obj/Debug/net8.0/RabbitMQPublisher2.genruntimeconfig.cache

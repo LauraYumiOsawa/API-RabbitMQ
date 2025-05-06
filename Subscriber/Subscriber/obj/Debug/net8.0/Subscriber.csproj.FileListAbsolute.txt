@@ -1,0 +1,17 @@
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/bin/Debug/net8.0/Subscriber
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/bin/Debug/net8.0/Subscriber.deps.json
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/bin/Debug/net8.0/Subscriber.runtimeconfig.json
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/bin/Debug/net8.0/Subscriber.dll
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/bin/Debug/net8.0/Subscriber.pdb
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.csproj.AssemblyReference.cache
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.AssemblyInfoInputs.cache
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.AssemblyInfo.cs
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.csproj.CoreCompileInputs.cache
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.csproj.CopyComplete
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.dll
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/refint/Subscriber.dll
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.pdb
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/Subscriber.genruntimeconfig.cache
+/home/losawa/Músicas/Class/FullStack/3/Subscriber/Subscriber/obj/Debug/net8.0/ref/Subscriber.dll

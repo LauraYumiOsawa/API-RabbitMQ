@@ -1,0 +1,4 @@
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher/RabbitMQPublisher/obj/Debug/net8.0/RabbitMQPublisher.GeneratedMSBuildEditorConfig.editorconfig
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher/RabbitMQPublisher/obj/Debug/net8.0/RabbitMQPublisher.AssemblyInfoInputs.cache
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher/RabbitMQPublisher/obj/Debug/net8.0/RabbitMQPublisher.AssemblyInfo.cs
+/home/losawa/Músicas/Class/FullStack/3/RabbitMQPublisher/RabbitMQPublisher/obj/Debug/net8.0/RabbitMQPublisher.csproj.CoreCompileInputs.cache
