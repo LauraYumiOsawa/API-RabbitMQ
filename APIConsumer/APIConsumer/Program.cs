@@ -13,6 +13,7 @@ internal class Program
             options.UseSqlServer("Server=localhost;Database=APIConsumer;Trusted_Connection=True;TrustServerCertificate=True;"));
 
         builder.Services.AddControllers();
+        builder.Services.AddHostedService<RabbitMqConsumerService>();
 
         var app = builder.Build();
 
